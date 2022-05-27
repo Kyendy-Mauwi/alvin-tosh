@@ -30,7 +30,7 @@ Skills: NODE / Firebase / Vite / Svelte / Angular / JS / HTML / CSS / PYTHON / C
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alvin-tosh&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alvin-tosh)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alvin-tosh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true))  
 
 ![GitHub metrics](https://metrics.lecoq.io/alvin-tosh)  
 
